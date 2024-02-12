@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Matte3\Matte3_Comp2\Math3_Comp2\Main.cpp(168,8): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+  Math3_Comp2.vcxproj -> C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Matte3\Matte3_Comp2\Math3_Comp2\x64\Debug\Math3_Comp2.exe

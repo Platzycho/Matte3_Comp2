@@ -9,4 +9,5 @@ C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Matte3\Matte3_Comp2\Math3_Comp2\Main.
 C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Matte3\Matte3_Comp2\Math3_Comp2\Main.cpp(285,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Matte3\Matte3_Comp2\Math3_Comp2\Main.cpp(298,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Matte3\Matte3_Comp2\Math3_Comp2\Main.cpp(389,8): warning C4244: 'initializing': conversion from 'Eigen::Index' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   Math3_Comp2.vcxproj -> C:\Users\Nesli\OneDrive\Dokumenter\3D Prog\Matte3\Matte3_Comp2\Math3_Comp2\x64\Debug\Math3_Comp2.exe
